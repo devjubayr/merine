@@ -57,9 +57,9 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="border bg-gray-20" />
+        <div className="border border-gray-20/50" />
         <p className="regular-14 w-full text-center text-gray-30">
-          2023 Hilink | All rights reserved
+          {new Date().getFullYear()} Merine | All rights reserved
         </p>
       </div>
     </footer>

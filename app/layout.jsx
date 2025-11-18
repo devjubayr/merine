@@ -3,8 +3,9 @@ import Navbar from "@/components/Navbar";
 import "./globals.css";
 
 export const metadata = {
-  title: "Travel",
-  description: "Travel UI/UX App for Camping",
+  title: "Merine | Travel landing page",
+  description:
+    " We want to be on each of your journeys seeking the satisfaction of seeing the incorruptible beauty of nature. We can help you on an adventure around the world in just one app",
 };
 
 export default function RootLayout({ children }) {
